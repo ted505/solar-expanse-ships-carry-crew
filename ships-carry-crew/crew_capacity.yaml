@@ -1,0 +1,16 @@
+# Crew capacity per spacecraft. Capacity is multiplied by the selected SC count.
+# Spacecraft IDs come from Teddit's spacecraft.yaml dump.
+# Estimates use cargo capacity at 160T = 100 humans, with obvious placeholder cargo values excluded.
+crewCapacity:
+  spacecraft_capsule: 999999         # LOC / Orbital Payload Container: effectively infinite.
+  spacecraft_chem_mid2: 3            # Selene: 5T cargo.
+  spacecraft_chem_large: 63          # Stratos: 100T cargo.
+  spacecraft_electric_small: 188     # Hermes: 300T cargo.
+  spacecraft_nuke_small: 500         # Prometheus: 800T cargo.
+  spacecraft_nuke_mid: 938           # Hephaistos: 1500T cargo.
+  spacecraft_nuke_large: 1563        # Ariane: 2500T cargo.
+  spacecraft_nuke_nolv: 625          # Cronos: 1000T cargo.
+  spacecraft_fusion_small: 3125      # Nike: 5000T cargo.
+  spacecraft_fusion_mid: 6250        # Sirius: 10000T cargo.
+  spacecraft_fusion_large: 12500     # Zeus: 20000T cargo.
+  spacecraft_asteroid_puller: 6250   # Atlas: 10000T cargo.

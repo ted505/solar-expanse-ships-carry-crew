@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\Solar Expanse\BepInEx\plugins\ships-carry-crew\CrewCapacityMod.dll
+C:\Program Files (x86)\Steam\steamapps\common\Solar Expanse\BepInEx\plugins\ships-carry-crew\CrewCapacityMod.pdb
+C:\Users\parft\Documents\SolarExpanseMods\ships-carry-crew\src\obj\Release\CrewCapacityMod.csproj.AssemblyReference.cache
+C:\Users\parft\Documents\SolarExpanseMods\ships-carry-crew\src\obj\Release\CrewCapacityMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parft\Documents\SolarExpanseMods\ships-carry-crew\src\obj\Release\CrewCapacityMod.AssemblyInfoInputs.cache
+C:\Users\parft\Documents\SolarExpanseMods\ships-carry-crew\src\obj\Release\CrewCapacityMod.AssemblyInfo.cs
+C:\Users\parft\Documents\SolarExpanseMods\ships-carry-crew\src\obj\Release\CrewCapacityMod.csproj.CoreCompileInputs.cache
+C:\Users\parft\Documents\SolarExpanseMods\ships-carry-crew\src\obj\Release\CrewCapacityMod.sourcelink.json
+C:\Users\parft\Documents\SolarExpanseMods\ships-carry-crew\src\obj\Release\CrewCapacityMod.dll
+C:\Users\parft\Documents\SolarExpanseMods\ships-carry-crew\src\obj\Release\CrewCapacityMod.pdb
